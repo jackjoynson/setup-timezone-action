@@ -1,6 +1,6 @@
 name: 'Setup timezone'
 description: 'Setup timezone for action'
-author: 'zcong1993'
+author: 'jackjoynson'
 branding:
   icon: 'bar-chart-2'
   color: 'green'
