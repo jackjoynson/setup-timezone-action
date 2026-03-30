@@ -1,6 +1,8 @@
-# Setup Timezone ![units-test](https://github.com/zcong1993/setup-timezone/workflows/units-test/badge.svg)
+# Setup Timezone
 
-Setup timezone you need for action.
+Fork of zcong1993/setup-timezone@master updated to latest versions
+
+Setup Github Actions timezone for your workflow.
 
 ## Getting Started
 
@@ -8,7 +10,7 @@ Simple usage:
 
 ```yaml
 - name: Setup timezone
-  uses: zcong1993/setup-timezone@master
+  uses: jackjoynson/setup-timezone@v1
   with:
     timezone: Asia/Shanghai
 ```
